@@ -13,4 +13,3 @@ Stock price analysis based solely on technical indicators, such as in traditiona
 
 #### KOSPI, KOSDAQ
 ![Framework](Figure/KOSPI_and_KOSDAQ.png)
-=======
